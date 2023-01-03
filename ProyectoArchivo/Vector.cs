@@ -13,8 +13,7 @@ namespace ProyectoArchivo
 
         public Vector()
         {
-            numElements = 0;
-            v = new int[0];
+            numElements = 0; v = new int[0];
         }
 
         void ResizeVector()
